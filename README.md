@@ -1,3 +1,6 @@
+-Hi, I Am shubham 
+
+
 - 👋 Hi, I’m @shubhamringole
 - 👀 I’m interested in Data Science and Art
 - 🌱 I’m currently learning Machine Learning 
