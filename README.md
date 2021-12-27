@@ -24,8 +24,6 @@ I'am shubham from India, and I a Data Scientist having Some experience working w
 
 ![GitHub metrics](https://metrics.lecoq.io/shubhamringole)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamingole)  
-
 ![Profile views](https://gpvc.arturio.dev/shubhamringole)  
 
 ## My Hobbies
