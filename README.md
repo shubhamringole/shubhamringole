@@ -1,14 +1,5 @@
--Hi, I Am shubham 
+-Hi, There
+I'am shubham from India, and I do Content on Youtube Related to Sketching. I am also a Data Scientist having Some exprience working with Python. I currently Work for Nvidia at there Data Factory as a Process Execuative for Building the Data which is Required to Build Futre Self draving cars. You can check Out my Youtube account https://www.youtube.com/c/SKETCHGURU or can follow me on twitter https://twitter.com/mrshubhamingole
 
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m Shubham Rajendra Ingole 
-
-I am a Mechanical Engineer with Passion of Coading, Ya U can Called me Cyrbog.
-- 👀 I’m interested in Data Science and Art
-- 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me artbyshubham@gmail.com
-
-<!---
-shubhamringole/shubhamringole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
