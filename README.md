@@ -28,5 +28,5 @@ I'am shubham from India, and I do Content on Youtube Related to Sketching. I am 
 
 ## My Works
 <a href="https://www.youtube.com/c/SKETCHGURU
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://www.youtube.com/watch?v=faijFMRf_Q8&t=11s" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
