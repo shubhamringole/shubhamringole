@@ -18,13 +18,15 @@ I'am shubham from India, and I a Data Scientist having Some experience working w
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamingole&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamringole&show_icons=true)
 
-![GitHub metrics](https://metrics.lecoq.io/shubhamingole)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubhamringole)  
+
+![GitHub metrics](https://metrics.lecoq.io/shubhamringole)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamingole)  
 
-![Profile views](https://gpvc.arturio.dev/shubhamingole)  
+![Profile views](https://gpvc.arturio.dev/shubhamringole)  
 
 ## My Hobbies
 <a href="https://www.youtube.com/watch?v=YMi2i2y_O-k&t=449s
