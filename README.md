@@ -27,6 +27,10 @@ I'am shubham from India, and I do Content on Youtube Related to Sketching. I am 
 ![Profile views](https://gpvc.arturio.dev/shubhamingole)  
 
 ## My Works
-<a href="https://www.youtube.com/c/SKETCHGURU
+<a href="https://www.youtube.com/watch?v=YMi2i2y_O-k&t=449s
 " target="_blank"><img src="https://img.youtube.com/vi/YMi2i2y_O-k/maxresdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
+
+<a href="https://www.youtube.com/watch?v=iA1A4Z3WfDg&t=1196s
+" target="_blank"><img src="https://img.youtube.com/vi/iA1A4Z3WfDg/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="260" height="180" border="10" /></a>
