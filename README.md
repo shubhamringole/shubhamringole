@@ -4,7 +4,7 @@
 
 I'am shubham from India, and I do Content on Youtube Related to Sketching. I am also a Data Scientist having Some experience working with Python. I currently Work for Nvidia at their Data Factory as a Process Executive for Building the Data which is Required to Build Future Self-driving cars. 
 
-##Skills: 
+## Skills: 
 * Python
 * Tableau
 * SQL
