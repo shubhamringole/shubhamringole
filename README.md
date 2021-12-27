@@ -7,7 +7,7 @@ I'am shubham from India, and I do Content on Youtube Related to Sketching. I am 
 ## Skills And Experience
 - 👨‍💻Python
 - 💻Tableau
-- 🗂️SQL
+- 🗂️postgresql
 - 🔭 I’m currently working on Nvidia Graphic PVT LTD 
 - 🌱 I’m currently learning MACHINE LEARNING  
 - 👯 I’m looking to collaborate on Open CV Projects  
