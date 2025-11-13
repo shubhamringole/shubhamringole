@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Shubham Ingole
-## Data Analyst
-![Data Analyst](https://blogger.googleusercontent.com/img/a/AVvXsEgdocE6z_3pg5CaRyA2Ub_uxHCv-F4fhmL2rjx8j_wcM5rjfCZFEj5Chty1SIeTmPGLNGW0tZTQtafY9uPoT0GlgKJgND1cnnSd_8LWccZjh2gT4iTFQZX9WlZ73mcMuktxpxRuDJBRmtFxQhieLRqjHAHHhvJY9cjREp6ubyHDUNyACfPQGuUicAc=s2084)
+## Data Engineer
 
-I'am shubham from India, and I am a Data Analyst having Some experience working with Python. I currently Work for Nvidia at their Data Factory as a Process Executive for Building the Data which is Required to Build Future Self-driving cars.I am also a Self taught artist and content creator on youtube.
+I'am shubham from India, and I am a Data Engineer having experience working with Python. I currently Work for Technoserve for Building the Data which is Required to Build.
 
 ## Skills And Experience
 - 👨‍💻Python
